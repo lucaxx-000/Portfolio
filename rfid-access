@@ -1,0 +1,18 @@
+rfid-access/
+│
+├── README.md
+├── docs/
+│   ├── architecture.md
+│   ├── hardware.md
+│   └── development-history.md
+│
+├── hardware/
+│   ├── schematics/
+│   └── pcb/
+│
+├── firmware/
+├── media/
+│   ├── photos/
+│   └── diagrams/
+│
+└── tests/
